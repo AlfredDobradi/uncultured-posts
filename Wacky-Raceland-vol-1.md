@@ -7,7 +7,7 @@ tags = [
 categories = [
   "articles",
 ]
-title = "Future Quest Vol. 1"
+title = "Wacky Raceland Vol. 1"
 date = "2017-03-16T10:00:00Z"
 description = "Your racing escapades reinvigorated - now with 100% more apocalypse" 
 +++
